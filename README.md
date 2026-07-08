@@ -32,7 +32,7 @@ Published to Maven Central under `page.pieters:httprequestor`.
 
 ```kotlin
 dependencies {
-    implementation("page.pieters:httprequestor:0.1.1")
+    implementation("page.pieters:httprequestor:0.1.2")
 }
 ```
 
@@ -40,7 +40,7 @@ dependencies {
 
 ```groovy
 dependencies {
-    implementation 'page.pieters:httprequestor:0.1.1'
+    implementation 'page.pieters:httprequestor:0.1.2'
 }
 ```
 
@@ -50,7 +50,7 @@ dependencies {
 <dependency>
     <groupId>page.pieters</groupId>
     <artifactId>httprequestor</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
 </dependency>
 ```
 
